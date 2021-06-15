@@ -1,7 +1,7 @@
 :root {
-  --main-white: #f0f0f0;
-  --main-red: #be3144;
-  --main-blue: #45567d;
+  --main-white: #f1eeee;
+  --main-red: #e0d537;
+  --main-blue: #696d6c;
   --main-gray: #303841;
 }
 
@@ -24,7 +24,7 @@ body {
 
 h1,
 h2 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Playfair", sans-serif;
   font-weight: 700;
   text-align: center;
   margin: 0;
@@ -73,7 +73,7 @@ h2 {
 }
 #navbar .nav-list a {
   text-decoration: none;
-  color: var(--main-white);
+  color: var(--main-gray);
 }
 #projects {
   background: var(--main-blue);
